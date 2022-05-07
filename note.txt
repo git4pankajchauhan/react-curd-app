@@ -1,0 +1,4 @@
+HOC component
+methods -> map , forEach , reduce , filter , find , indexOf , findIndex , slice , splice , join , for in , for of , debounce
+redux
+next.js
